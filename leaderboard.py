@@ -5,13 +5,13 @@ import pandas as pd
 leaderboard_data = {
     "Moses": 2000,
     "Matt": 2000,
-    "Seb": 1500,
+    "Seb": 2000,
     "Victoria": 1500,
     "Kingsley": 2000,
     "Cinya": 2000,
-    "Sophia": 1500,
+    "Sophia": 2500,
     "Preston": 1000,
-    "Traie": 1000,
+    "Traie": 2000,
     "Celine": 1000,
     "Izzy": 1000,
     "Lucas": 1000
@@ -26,7 +26,10 @@ points_log = [
     {"date": "2024-07-14", "name": "Victoria", "points": 500, "reason": "Duck race winner"},
     {"date": "2024-07-21", "name": "Kingsley", "points": 1000, "reason": "Demonstrating Teamwork core value"},
     {"date": "2024-07-21", "name": "Cinya", "points": 1000, "reason": "Demonstrating Fun core value"},
-    {"date": "2024-07-21", "name": "Sophia", "points": 500, "reason": "Duck race winner"}
+    {"date": "2024-07-21", "name": "Sophia", "points": 500, "reason": "Duck race winner"},
+    {"date": "2024-07-21", "name": "Traie", "points": 1000, "reason": "Demonstrating Innovation core value"},
+    {"date": "2024-07-21", "name": "Sophia", "points": 1000, "reason": "Demonstrating Discovery core value"},
+    {"date": "2024-07-21", "name": "Seb", "points": 500, "reason": "Duck race winner"}
 ]
 
 def create_dataframe():
