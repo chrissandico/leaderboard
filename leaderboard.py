@@ -27,9 +27,9 @@ points_log = [
     {"date": "2024-07-21", "name": "Kingsley", "points": 1000, "reason": "Demonstrating Teamwork core value"},
     {"date": "2024-07-21", "name": "Cinya", "points": 1000, "reason": "Demonstrating Fun core value"},
     {"date": "2024-07-21", "name": "Sophia", "points": 500, "reason": "Duck race winner"},
-    {"date": "2024-07-21", "name": "Traie", "points": 1000, "reason": "Demonstrating Innovation core value"},
-    {"date": "2024-07-21", "name": "Sophia", "points": 1000, "reason": "Demonstrating Discovery core value"},
-    {"date": "2024-07-21", "name": "Seb", "points": 500, "reason": "Duck race winner"}
+    {"date": "2024-07-28", "name": "Traie", "points": 1000, "reason": "Demonstrating Innovation core value"},
+    {"date": "2024-07-28", "name": "Sophia", "points": 1000, "reason": "Demonstrating Discovery core value"},
+    {"date": "2024-07-28", "name": "Seb", "points": 500, "reason": "Duck race winner"}
 ]
 
 def create_dataframe():
